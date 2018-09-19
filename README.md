@@ -1,6 +1,6 @@
 ### Install LowChat
 
-# Requires Python: ">=3"
+#### Requires Python: ">=3"
 
 `$ pip install -r requirements.txt`
 
