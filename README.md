@@ -1,8 +1,6 @@
-###Install LowChat
+### Install LowChat
 
-####Inline code
-
-`$ git clone https://github.com/LowLevel96/MQTT_Chat`
+#### Requires Python: ">=3"
 
 `$ pip install -r requirements.txt`
 
